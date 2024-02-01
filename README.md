@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=apache,git,trello,ubuntu,visualstudio,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=apache,git,visualstudio,vscode,idea" />
   </a>
 </p>
 
