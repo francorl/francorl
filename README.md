@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c++,java,python,php)](https://skillicons.dev)
 
 
 </p>
