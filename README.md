@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=aws,git,mongodb,mysql" />
+     <br/>  <img src="https://skillicons.dev/icons?i=aws,git,mongodb,mysql" />
   </a>
 </p>
 
