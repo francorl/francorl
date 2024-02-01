@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
-<a href="#"><img alt="Unreal Engine" src="[https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white](https://img.shields.io/badge/Unreal%20Engine-dark)"></a>
+<a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
 </p>
 
 <h4 align="center">⚙ Software</h4>
