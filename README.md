@@ -20,22 +20,23 @@ Here are some ideas to get you started:
 <h4 align="center">💻 Programming </h4>
 
 <p align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,python,php)](https://skillicons.dev)
-
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,java,python,php" />
+  </a>
 </p>
 
 
 
 <h4 align="center">📚 Frameworks and Libraries</h4>
 
+
 <p align="center">
-
-
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,github,react,unrealengine)](https://skillicons.dev)
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,github,react,unrealengine" />
+  </a>
 </p>
+  
+
 
 <h4 align="center">⚙ Software</h4>
 
