@@ -38,7 +38,9 @@ Here are some ideas to get you started:
   
 
 
-<h4 align="center">⚙ Software</h4>
+
+<h4 align="center">📚 Frameworks and Libraries</h4>
+
 
 <p align="center">
   <a href="#">
