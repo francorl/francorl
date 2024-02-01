@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=apache,git,visualstudio,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=apache,git,visualstudio,vscode,idea,eclipse" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=aws,git,mariadb,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=aws,git,mongodb,mysql" />
   </a>
 </p>
 
