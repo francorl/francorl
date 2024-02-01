@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=bootstrap,github,react,unrealengine" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,github,react,unrealengine,githubactions" />
   </a>
 </p>
   
@@ -56,6 +56,12 @@ Here are some ideas to get you started:
 <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=aws,git,mariadb,mongodb,mysql" />
+  </a>
 </p>
 
 <br/>
