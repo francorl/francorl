@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 
-[![My Skills](https://skillicons.dev/icons?i=Bootstrap,GitHub,React,unrealengine)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,github,react,unrealengine)](https://skillicons.dev)
   
 </p>
 
