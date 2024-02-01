@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">🌱 My Skills</h2>
+<h2 align="center"> My Skills</h2>
 
 <h4 align="center">💻 Programming </h4>
 
