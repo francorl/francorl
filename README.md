@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h4 align="center">⚙ Software</h4>
 <p align="center">
   <a href="#">
-   <br/> <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea,eclipse" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea,eclipse" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-     <br/>  <img src="https://skillicons.dev/icons?i=aws,git,mongodb,mysql" />
+   <img src="https://skillicons.dev/icons?i=aws,git,mongodb,mysql" />
   </a>
 </p>
 
