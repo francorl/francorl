@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h4 align="center">💻 Programming </h4>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,java,python,php" />
   </a>
 </p>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=bootstrap,github,react,unrealengine" />
   </a>
 </p>
