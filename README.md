@@ -25,23 +25,15 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-
 <h4 align="center">📚 Frameworks and Libraries</h4>
-
-
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=bootstrap,github,react,unrealengine,githubactions" />
   </a>
 </p>
-  
 
 
-
-<h4 align="center">Software</h4>
-
-
+<h4 align="center">⚙ Software</h4>
 <p align="center">
   <a href="#">
    <br/> <img src="https://skillicons.dev/icons?i=apache,git,visualstudio,vscode,idea,eclipse" />
@@ -50,7 +42,6 @@ Here are some ideas to get you started:
 
 
 <h4 align="center">☁ Cloud and Providers</h4>
-
 
 <p align="center">
   <a href="#">
