@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="center">⚙Software</h3>
+<h3 align="center">⚙Software and Tools</h3>
 
 ###
 
