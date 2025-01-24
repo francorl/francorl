@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Franco, I'm a software developer and here you'll find projects I'm working on such as websites, games, plugins and more.</p>
+<p align="center">My name is Franco, I'm a software developer.</p>
 
 ###
 
